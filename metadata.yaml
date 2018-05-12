@@ -1,4 +1,8 @@
 _repo: Campfire-and-Battlefield-An-Illustrated-History-of-the-Campaigns-and-Conflicts-of-the-Great-C__47746
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Johnson, Rossiter
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '3308'
     url: http://www.gutenberg.org/2009/agents/3308
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47746#Campfire-and-Battlefield-An-Illustrated-History-of-the-Campaigns-and-Conflicts-of-the-Great-C_
 gutenberg_issued: '2014-12-22'
 gutenberg_type: Text
 identifiers:
